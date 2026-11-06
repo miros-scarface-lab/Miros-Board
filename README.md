@@ -1,4 +1,4 @@
-# Miro Whiteboard Editor
+
 # miros Whiteboard Editor
 
 A web-based infinite whiteboard application inspired by the Miro board editor. Built with React, TypeScript, Konva (`react-konva`), Zustand, and Tailwind CSS.
